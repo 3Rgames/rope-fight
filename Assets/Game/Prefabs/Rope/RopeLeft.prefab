@@ -1,0 +1,855 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &5472902048012893849
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 10065684231400498, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 10065684231400498, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 10065684231400498, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 10065684231400498, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 10065684231400498, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 10065684231400498, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 10065684231400498, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 10065684231400498, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -1.9429096e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 181261078815292754, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 305537425431654388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 305537425431654388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 305537425431654388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 305537425431654388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 305537425431654388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 305537425431654388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 305537425431654388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 305537425431654388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -1.9984088e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 645317233642550130, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 651870898786843919, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 651870898786843919, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 651870898786843919, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 651870898786843919, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 651870898786843919, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 651870898786843919, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 651870898786843919, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 651870898786843919, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -6.994417e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 754484759092232090, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 782650612832937322, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 782650612832937322, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 782650612832937322, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 782650612832937322, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 782650612832937322, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 782650612832937322, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 782650612832937322, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 782650612832937322, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: 1.7763492e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 1091815734917169499, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1091815734917169499, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1091815734917169499, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1091815734917169499, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1091815734917169499, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1091815734917169499, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 1091815734917169499, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1091815734917169499, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -1.7763667e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 1849254359849683254, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Name
+      value: RopeLeft
+      objectReference: {fileID: 0}
+    - target: {fileID: 2746904735864027801, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 2891372698068195601, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3141831750542555714, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178175450896125815, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178175450896125815, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178175450896125815, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178175450896125815, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178175450896125815, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178175450896125815, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178175450896125815, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3178175450896125815, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -1.8873792e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 3302832624478277030, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3345287892231849690, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3345287892231849690, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3345287892231849690, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3345287892231849690, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3345287892231849690, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3345287892231849690, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3345287892231849690, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3345287892231849690, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: 5.1902884e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 3345287892231849690, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: -1.05845376e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3392932213009642919, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3511665360781177361, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3511665360781177361, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3511665360781177361, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3511665360781177361, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3511665360781177361, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3511665360781177361, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3511665360781177361, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3511665360781177361, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -1.9984076e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 3511665360781177361, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: -1.4408777e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 3557402178180743586, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3608755125264997592, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3608755125264997592, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3608755125264997592, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3608755125264997592, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3608755125264997592, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3608755125264997592, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3608755125264997592, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3608755125264997592, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -1.387796e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 3612209554355231644, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3612209554355231644, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3612209554355231644, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3612209554355231644, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3612209554355231644, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3612209554355231644, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3612209554355231644, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3612209554355231644, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -21.540564
+      objectReference: {fileID: 0}
+    - target: {fileID: 3612209554355231644, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3612209554355231644, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4231675460675635519, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4566601281060810184, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4713422398829282711, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4715367139363703360, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4715367139363703360, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4715367139363703360, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4715367139363703360, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4715367139363703360, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4715367139363703360, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4715367139363703360, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4715367139363703360, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: 1.0103039e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4715367139363703360, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.y
+      value: -6.760299e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4715367139363703360, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: -0.13500011
+      objectReference: {fileID: 0}
+    - target: {fileID: 4766932213995280623, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046119013155183643, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046119013155183643, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046119013155183643, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046119013155183643, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046119013155183643, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046119013155183643, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046119013155183643, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5046119013155183643, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -6.217255e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 5230117995478517036, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270867050881216609, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270867050881216609, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270867050881216609, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270867050881216609, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270867050881216609, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270867050881216609, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270867050881216609, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5270867050881216609, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: 3.1086546e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 5955128536702607083, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6000766501919726320, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6350574150964015621, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6518643344921728388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6518643344921728388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6518643344921728388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6518643344921728388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6518643344921728388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6518643344921728388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6518643344921728388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6518643344921728388, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: 2.3404407e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 6836834605989283438, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6836834605989283438, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6836834605989283438, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6836834605989283438, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6836834605989283438, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6836834605989283438, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6836834605989283438, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6836834605989283438, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: 2.803319e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 6903365443997263113, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6903365443997263113, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6903365443997263113, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6903365443997263113, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6903365443997263113, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6903365443997263113, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6903365443997263113, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6903365443997263113, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: 5.1903042e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 7162671356854602007, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7397409881691613767, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7397409881691613767, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 7397409881691613767, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8020448203110774377, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124964048931193194, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124964048931193194, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124964048931193194, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124964048931193194, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124964048931193194, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124964048931193194, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124964048931193194, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124964048931193194, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124964048931193194, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124964048931193194, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8124964048931193194, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 90
+      objectReference: {fileID: 0}
+    - target: {fileID: 8303210358560347234, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8310373827706944339, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8310373827706944339, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8310373827706944339, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8310373827706944339, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8310373827706944339, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8310373827706944339, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8310373827706944339, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8310373827706944339, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -7.216463e-18
+      objectReference: {fileID: 0}
+    - target: {fileID: 8396157817655362462, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8396157817655362462, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8396157817655362462, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8396157817655362462, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8396157817655362462, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8396157817655362462, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8396157817655362462, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8396157817655362462, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -5.329075e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397835711829192544, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397835711829192544, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397835711829192544, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397835711829192544, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397835711829192544, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397835711829192544, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397835711829192544, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397835711829192544, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -1.8873792e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 8397835711829192544, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.z
+      value: -0.13500002
+      objectReference: {fileID: 0}
+    - target: {fileID: 8577402723917355207, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737955475991546713, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737955475991546713, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737955475991546713, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737955475991546713, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737955475991546713, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737955475991546713, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737955475991546713, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8737955475991546713, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -2.7755675e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744462148162038047, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744462148162038047, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744462148162038047, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Axis.z
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744462148162038047, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_Anchor.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744462148162038047, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744462148162038047, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.y
+      value: -1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744462148162038047, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_SecondaryAxis.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8744462148162038047, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
+      propertyPath: m_ConnectedAnchor.x
+      value: -5.5491246e-19
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: d2204d5206ace4f20ad964bc216b0ce2, type: 3}
