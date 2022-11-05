@@ -8,6 +8,7 @@ public class WeaponHolder : MonoBehaviour
 
     public List<Material> ShowRandomWeapon()
     {
+        gameObject.SetActive(true);
         for (int i = 0; i < _weapons.Count; i++)
         {
             _weapons[i].SetActive(false);

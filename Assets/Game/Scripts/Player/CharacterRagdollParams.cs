@@ -25,17 +25,32 @@ public class CharacterRagdollParams : MonoBehaviour
 
     private void Start()
     {
+        SetUpJoints();
+    }
+
+    private void SetUpJoints()
+    {
         for (int i = 0; i < _bodyParts.Count; i++)
         {
             for (int j = 0; j < _bodyParts[i].Joints.Count; j++)
             {
-                JointDrive jointDrive = new JointDrive();
-
-                jointDrive = _bodyParts[i].Joints[j].angularXDrive;
+                JointDrive jointDrive = _bodyParts[i].Joints[j].angularXDrive;
                 jointDrive.positionSpring = _bodyParts[i].PositionSpring;
                 jointDrive.positionDamper = _bodyParts[i].PositionDamper;
                 _bodyParts[i].Joints[j].angularXDrive = jointDrive;
-            }  
+
+                jointDrive = _bodyParts[i].Joints[j].angularYZDrive;
+                jointDrive.positionSpring = _bodyParts[i].PositionSpring;
+                jointDrive.positionDamper = _bodyParts[i].PositionDamper;
+                _bodyParts[i].Joints[j].angularYZDrive = jointDrive;
+            }
         }
     }
+
+#if UNITY_EDITOR
+    private void OnValidate()
+    {
+        SetUpJoints();
+    }
+#endif
 }

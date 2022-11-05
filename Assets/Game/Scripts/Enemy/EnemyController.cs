@@ -32,8 +32,8 @@ public class EnemyController : MonoBehaviour
     [SerializeField] private List<WeaponHolder> _weaponHolders = new List<WeaponHolder>();
     [Header("VFX")]
     [SerializeField] private List<ParticleSystem> _bloods = new List<ParticleSystem>();
-
     private List<Material> _weaponMat = new List<Material>();
+
     private void Start()
     {
         _target = GameObject.FindObjectOfType<PlayerController>().transform;
