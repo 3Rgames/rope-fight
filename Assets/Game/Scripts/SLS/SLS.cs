@@ -14,30 +14,20 @@ public class SLS : MonoSingleton<SLS>
         Debug.Log("PlayerPrefs Cleared!");
         PlayerPrefs.DeleteAll();
     }
-
     private void Start()
     {
         UploadData();
     }
-
     private void OnApplicationPause(bool pause)
     {
         if (pause)
             Save();
     }
-
-    public void Save()
-    {
-        SaveData();
-    }
-
     private void OnApplicationQuit()
     {
         Save();
     }
-
-
-    private void SaveData()
+    public void Save()
     {
         SV.AudioEnabled = AudioController.Instance.AudioEnabled;
         SV.TapTicEnabled = TapTicController.Instance.TapTicEnabled;
@@ -45,7 +35,6 @@ public class SLS : MonoSingleton<SLS>
         SV.Money = UIController.Instance.Money;
         PlayerPrefs.SetString("SV", JsonUtility.ToJson(SV));
     }
-
     private void UploadData()
     {
         if (PlayerPrefs.HasKey("SV"))
@@ -58,8 +47,6 @@ public class SLS : MonoSingleton<SLS>
         }
     }
 }
-
-[SerializeField]
 public class Save
 {
     public bool AudioEnabled;
@@ -67,10 +54,3 @@ public class Save
     public int CountOfLoops;
     public int Money;
 }
-
-// To save other information you need:
-// 1. add this information into the class "Save"
-// 2. add this information into SaveData()
-// 3. add this information into UploadData()
-// SLS.Instance.Save(); - to sa
-// Yours ever 3R

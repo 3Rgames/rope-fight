@@ -88,9 +88,3 @@ public class LevelController : MonoSingleton<LevelController>
         levelIndexText.text = "Level " + numb;
     }
 }
-
-// LevelController.Instance.LevelReload();                                       - to reload current scene
-// LevelController.Instance.LevelLose();                                         - to lose current scene
-// LevelController.Instance.NextLevel();                                         - to go to a new scene
-// LevelController.Instance.LevelIndexReload(TextMeshProUGUI levelIndexText);    - to show current scene index
-// Yours ever 3R

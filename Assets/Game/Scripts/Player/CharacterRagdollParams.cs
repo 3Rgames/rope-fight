@@ -20,8 +20,8 @@ public class PartOfBody
 }
 
 public class CharacterRagdollParams : MonoBehaviour
-{ 
-   [SerializeField] private List<PartOfBody> _bodyParts = new List<PartOfBody>();
+{
+    [SerializeField] private List<PartOfBody> _bodyParts = new List<PartOfBody>();
 
     private void Start()
     {
